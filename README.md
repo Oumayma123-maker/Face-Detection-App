@@ -38,9 +38,7 @@ Welcome to the Face Detection App! Here’s a guide to help you navigate and uti
    
 Step 1: Click on the "Choose an image..." button to upload a photo from your device. The app supports common image formats like JPG, PNG, and JPEG. 📸🖼️
 
-Step 2: After selecting your image, the app will process it and detect any faces present. You’ll see rectangles drawn around detected faces, and a message indicating how many faces were
-
-identified. 🎊👤
+Step 2: After selecting your image, the app will process it and detect any faces present. You’ll see rectangles drawn around detected faces, and a message indicating how many faces were identified. 🎊👤
 
 3. Using the Webcam :
    
