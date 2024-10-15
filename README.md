@@ -8,7 +8,7 @@ webcam, this app will highlight the faces detected in real-time. It's a fun proj
 
 Check out the live app here:
 
-🌟 Features :
+## 🌟 Features :
 
 👤 Face Detection: Utilizes OpenCV's Haar Cascade Classifier to identify faces in uploaded images or webcam captures. 🕵️‍♂️
 
@@ -18,7 +18,7 @@ Check out the live app here:
 
 🔍 Visual Feedback: Rectangles are drawn around detected faces, along with the number of faces identified. ✅
 
-🛠️ Technologies Used :
+## 🛠️ Technologies Used :
 
 Python: The programming language used for backend logic. 🐍
 
@@ -30,7 +30,7 @@ NumPy: A library for numerical operations in Python. ➗
 
 Pillow: A library for image processing in Python. 🖼️
 
-📖 Using the Face Detection App :
+## 📖 Using the Face Detection App :
 
 Welcome to the Face Detection App! Here’s a guide to help you navigate and utilize its features seamlessly. Get ready for some fun! 🎉✨
 
@@ -50,7 +50,7 @@ Step 2: Position yourself in front of the camera, and click on the camera input 
 
 Step 3: After processing, the app will display the captured image with rectangles around any detected faces, along with a count of how many faces were recognized. Enjoy the instant 
 
-feedback! 🌟🎉
+ feedback! 🌟🎉
 
 5. Explore the Results :
    
@@ -76,7 +76,7 @@ We love hearing from our users! If you encounter any issues or have suggestions 
 
 the app! 💌💬
 
-📬 Contact :
+## 📬 Contact :
 
 For any questions, suggestions, or feedback, feel free to reach out!
 
