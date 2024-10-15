@@ -46,14 +46,11 @@ Step 1: Click on the "🎥 Use Webcam" button to activate your webcam. A live fe
 
 Step 2: Position yourself in front of the camera, and click on the camera input area to take a snapshot. The app will capture the image and perform face detection immediately! 😄📷
 
-Step 3: After processing, the app will display the captured image with rectangles around any detected faces, along with a count of how many faces were recognized. Enjoy the instant 
-
- feedback! 🌟🎉
+Step 3: After processing, the app will display the captured image with rectangles around any detected faces, along with a count of how many faces were recognized. Enjoy the instant feedback! 🌟🎉
 
 5. Explore the Results :
    
 Each time you upload an image or capture a photo, the app provides real-time results. Pay attention to the rectangles that highlight detected faces, which helps you visually confirm the
-
 accuracy of the detection. 🔍🟢
 
 Feel free to try various images or take multiple photos to see how the app performs under different lighting conditions or angles. The more, the merrier! 🎈😊
@@ -65,13 +62,11 @@ If you wish to take another picture after using the webcam, simply click on the 
 9. Enjoy the Experience! :
    
 Share your favorite moments with friends or use the app for creative projects! Whether you’re capturing selfies or testing out different images, the Face Detection App is here for a fun
-
 and interactive experience. 🎈🥳🎨
 
 11. Provide Feedback :
     
 We love hearing from our users! If you encounter any issues or have suggestions for improvements, please reach out via the Contact section. Your input is invaluable in helping us enhance
-
 the app! 💌💬
 
 ## 📬 Contact :
