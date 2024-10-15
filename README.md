@@ -4,6 +4,10 @@ Welcome to the Face Detection App! This web application allows you to detect fac
 
 webcam, this app will highlight the faces detected in real-time. It's a fun project that combines computer vision with a user-friendly interface.
 
+## 📅 Demo Link :
+
+Check out the live app here:
+
 🌟 Features :
 
 👤 Face Detection: Utilizes OpenCV's Haar Cascade Classifier to identify faces in uploaded images or webcam captures. 🕵️‍♂️
