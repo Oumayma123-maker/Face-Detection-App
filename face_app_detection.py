@@ -13,9 +13,9 @@ def detect_faces(img):
    faces = face_classifier.detectMultiScale(gray, scaleFactor=1.1, minNeighbors=5)
 # 
 # 
-  for (x, y, w, h) in faces:
-  cv2.rectangle(img, (x, y), (x + w, y + h), (0, 255, 0), 2)  # Draw rectangle around detected face
-  return img, len(faces)
+   for (x, y, w, h) in faces:
+      cv2.rectangle(img, (x, y), (x + w, y + h), (0, 255, 0), 2)  # Draw rectangle around detected face
+   return img, len(faces)
 # 
 # 
 # # Set a colorful background using HTML and CSS
