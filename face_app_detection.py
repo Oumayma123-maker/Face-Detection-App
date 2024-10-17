@@ -1,8 +1,8 @@
 # import libraries
- import cv2
- import streamlit as st
- import numpy as np
- from PIL import Image
+import cv2
+import streamlit as st
+import numpy as np
+from PIL import Image
 
 # # Load the Haar Cascade file for face detection
 face_classifier = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
