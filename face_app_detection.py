@@ -50,7 +50,7 @@ st.markdown("<p style='color: #4682B4;'>👤 Upload an image or use the webcam t
 uploaded_file = st.file_uploader("Choose an image... (jpg, png, jpeg)", type=["jpg", "png", "jpeg"])
 # 
 # 
- if uploaded_file is not None:
+if uploaded_file is not None:
 # # Convert the uploaded file to an OpenCV image
      image = np.array(Image.open(uploaded_file))
      result_img, faces_detected = detect_faces(image)
