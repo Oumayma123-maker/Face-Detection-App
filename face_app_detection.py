@@ -8,7 +8,7 @@
 face_classifier = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
  
 # # Function to detect faces in the image
- def detect_faces(img):
+def detect_faces(img):
    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)  # Convert image to grayscale
    faces = face_classifier.detectMultiScale(gray, scaleFactor=1.1, minNeighbors=5)
 # 
