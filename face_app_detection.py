@@ -57,27 +57,27 @@ if uploaded_file is not None:
 # 
 # 
 # # Display the result with faces detected
-      st.image(result_img, caption=f"✨ Processed Image with {faces_detected} face(s) detected! 😀🤖", use_column_width=True)
+     st.image(result_img, caption=f"✨ Processed Image with {faces_detected} face(s) detected! 😀🤖", use_column_width=True)
 # 
 # 
 # # Initialize session state to manage webcam activation
- if 'webcam_active' not in st.session_state:
+if 'webcam_active' not in st.session_state:
      st.session_state.webcam_active = False
- if 'picture_taken' not in st.session_state:
+if 'picture_taken' not in st.session_state:
      st.session_state.picture_taken = False
 # 
 # 
 # # Button to activate the webcam
- if st.button("🎥 Use Webcam") or st.session_state.webcam_active:
+if st.button("🎥 Use Webcam") or st.session_state.webcam_active:
     st.session_state.webcam_active = True
     st.markdown("<h3 style='color: #ff6347;'>🎦Starting webcam... Smile! 😊📷</h3>", unsafe_allow_html=True)
 # 
 # 
 # # Use the camera input to capture image
-     camera_image = st.camera_input("Take a picture!")
+    camera_image = st.camera_input("Take a picture!")
 # 
 # 
-     if camera_image is not None:
+    if camera_image is not None:
          st.session_state.picture_taken = True
          st.session_state.webcam_active = False  # Deactivate webcam after picture is taken
  
