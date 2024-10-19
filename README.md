@@ -4,7 +4,7 @@ Welcome to the Face Detection App! This web application allows you to detect fac
 
 webcam, this app will highlight the faces detected in real-time. It's a fun project that combines computer vision with a user-friendly interface.
 
-## 📅 Demo Link :
+## 📅 Demo Link : https://face-detection-app-bhlfwitm9nkhcbaau8dt4r.streamlit.app/
 
 Check out the live app here:
 
